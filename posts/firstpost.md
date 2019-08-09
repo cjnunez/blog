@@ -1,26 +1,26 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Sprint Week 1 
+description: This is a post on My Blog about Sprint week 1. 
+date: 2019-08-09
 tags:
   - another-tag
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## What I worked on!
+Sprint Week 1 had my talents primarily focused on the skeleton work of the userRegistration database. Initially I was incredibly anxious about my work load this week. I remember this lesson when first taught was extremely difficult for me. However, I got paired with Ayanna this week and she did a fantastic job with helping my short comings. She went to more detail of how the flow of data goes through the controller, model, and then routes. Her explanation made me feel comfortable enought to work with the code and add the routes and functions. The most difficult part about working through this was figuring out the locations of where the code was going wrong. Using post man does not give you a great description (or any) of the errors. We had to constantly go back to through the files in order to find what was going on (most of the time it was like user error). 
 
-## Section Header
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+## Work flow
 
-// Test with a line break above this line.
-console.log('Test');
-```
+The begining of our work flow this week was difficult to say the least. As a group we all were on the same page when discussing what tasks we were all doing. Not only were we confused what other memebers were doing, we were confused on how extensive our own work had to be. Ayanna eventually brought up how she felt overwhelmed and confused about the work flow, after she voiced her concerns we all stated that we felt the same. We then carved time out in order to re-organize ourselves and give a more detailed and precise explanation of the expectations of all this weeks tasks. 
+
+That was the turning point for our group. After that discussion we went into github did a massive overhaul of our repos and issue cases. Brennan did the majority of the re-organization, he also showed the group everything he did and why he did it to ensure no confusion. During the second half of the week I felt like the group had increased in efficency and was on a better path. 
+
+## Final Thoughts
+
+Even though this week started with confusion and indecisivness, we organized and were able to become more effective as a group. I know hiccups like these will happen regardless but, it is important to get issues like organization figured our early rather than wait. I believe Ayanna and I made a server skeleton that has a great foundation that can be easily added on to with new features.
+
+![](/img/routeCode.png)
+
