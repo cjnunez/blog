@@ -22,5 +22,6 @@ That was the turning point for our group. After that discussion we went into git
 
 Even though this week started with confusion and indecisivness, we organized and were able to become more effective as a group. I know hiccups like these will happen regardless but, it is important to get issues like organization figured our early rather than wait. I believe Ayanna and I made a server skeleton that has a great foundation that can be easily added on to with new features.
 
+###Routes code 
 ![](/img/routeCode.png)
 

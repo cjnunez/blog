@@ -1,18 +1,27 @@
 ---
-title: This is my second post.
+title: Sprint Week 2
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2018-07-04
 tags:
-  - number-2
+  - Sprint 2
+  - Backend DB
+  - middle ware
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
+My work this week mainly included back end database work. Mainly research and then implementation of middleware and creating more subroutes.
+
+## Research
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The begining of this week started out with mainly research. Our initial goal was one that I set during the our stand up on Monday morning. I thought that it would be a realistic goal to demo uploading a single picture file to an html page. Since we had not learned SQL databases yet, I thought we could just use a internal file database that could mock the function.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+It turns out that the creating a function to upload a single image file to a html page is simple. However, intergrating the same method into our more complicated data base structure created more problems than I initially thought. By the end of the week it was clear that my intial goal would not be achievable during this sprint. I was sad to admit, but I had made a scoping mistake when deciding to try and make our group complete this goal. However, the only action to take is to learn from this mistake and not repeat it in future sprints.
+
+I was able to create a couple new functions that would allow users to look up critiques by their ID, title, or genre.
+
+## Final thoughts
+
+Over all I was dissapointed that we were not able to finish the upload function from front to back. Working on the backend of the site is definetly difficult and I am worried about this part. However, my team is communicating better and better. I imagine our productivity will begin to skyrocket in the upcoming weeks.
