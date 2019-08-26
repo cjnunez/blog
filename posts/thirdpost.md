@@ -1,28 +1,22 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: Sprint week 3
+description: Week 3 was good so let me tell you about it.
 date: 2018-08-24
 tags:
-  - second-tag
+  - week 3 
+  - SQL 
+  - Research
+  - Front end 
+  - grid 
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Sprint week 3 was overall an incredibly productive week. I believe my team keeps progressing and communicating at an increasing rate. We do make more mistakes than most other groups however, I think this is to be expected because we are the only team with only new co-hort members. A big goal this week was getting organized with our previous code cleaning it up and ensuring that it was readable. Dandy and Brennan handled that and they did a great job, I was also scrum master this week so I was the one reading over the code and approving the pull requests on git hub. Ayanna and Adam were both in charge of creating the HTML page and the grid system. They both did an amazing job and its amazing to see how the front end looks. 
 
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
+## What I DID!!!!
 
-	counter++;
+First off, I loved being the scrum master. I think I have always enjoyed project management and communicating with everyone. It was great talking with everyone on their code and understanding the project as a whole is really insightful. Creating specific users issues and creating documentation was really awesome. I was also tasked with getting started on the SQL. Most of my week was consumed by research and using code academy to get a base understanding. I also worked with Roberto to help with what would work with electra. I created an erd diagram to get a nice structure of how the db will look. Rob gave me great insight on how to store images. It was a learning experience. I would have loved to have an actual db to show however, the scope would have been too large. 
 
-}
+## ERD Diagram 
 
-// Test with a line break above this line.
-console.log('Test');
-```
+![](/img/Capture.PNG)
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
